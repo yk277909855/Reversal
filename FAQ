@@ -1,0 +1,2 @@
+Q：怎样运行该程序？
+A：打开Cygwin；运用命令行语句vi建立新的源文件；运用命令行语句gcc编译该源文件，并建立.exe文件；运用命令行语句./main reverse_echo "abcd"和bash main.sh test分别运行.c和.sh文件。
