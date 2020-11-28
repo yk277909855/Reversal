@@ -1,0 +1,2 @@
+（1）配置：安装Cygwin时，镜像站点选用http://mirrors.163.com/cygwin/；包选择安装gdb，gcc，gui 和binutils，版本选择最最新；打开Cygwin终端,右击打开 Options...选项，Text可以设置字体的一些属性,如大小、编码,Locale 选择C, Character set 选择 UTF-8,可以避免中文显示乱码
+（2）编译：在Cygwin中运用gcc命令编译
